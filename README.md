@@ -388,7 +388,7 @@ Example:
 ### Connect with Me
 
 - GitHub: https://github.com/tanish021
-- LinkedIn: *(Add your LinkedIn Profile)*
+- LinkedIn: https://www.linkedin.com/in/tanish-shishodia-20243a2a8/?skipRedirect=true
 
 ---
 
